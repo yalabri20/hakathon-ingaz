@@ -1,0 +1,11 @@
+nest_asyncio
+asyncio
+python-telegram-bot
+ultralytics
+opencv-python
+numpy
+time
+keras
+collections
+tensorflow
+
