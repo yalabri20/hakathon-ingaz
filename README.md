@@ -76,6 +76,10 @@ You can download and watch the prototype video from the repository:
 
 [Prototype Video](./wahaj_prototype_video.mp4)
 
+Alternatively, here’s a preview of the video:
+
+![Prototype Video Preview](./demo_image.png)   <!-- You can add a thumbnail for the video -->
+
 
 
 ## Conclusion
